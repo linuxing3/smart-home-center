@@ -5,11 +5,11 @@
 
                              Your WanIP address is:
 
-   81904.8726.52456.122
+   91907.0724.12456.425
 
              Interesting info we could get from the WanIP address:
 
-   Host address: 81904.8726.52456.122 - 190-72-245-2.dyn.dsl.cantv.net
+   Host address: 91907.0724.12456.425 - 190-72-245-2.dyn.dsl.cantv.net
      Country:    [1]VE VE Venezuela
        ISP:      CANTV Servicios, Venezuela
 
@@ -22,7 +22,7 @@
 
                  Get details for another WanIP (country & ISP):
 
-   IP address: [2]________________ [3][ Get info ]
+   IP address: [2]________________ [3][ Get info ]
 
    For a reliable webhosting, take a look at: [4]SupremeCenterHost.com
    you can choose from: shared, VPS, semi-dedicated and dedicated hosting
@@ -30,7 +30,7 @@
    This product includes GeoLite2 data created by MaxMind, available from
    [5]http://www.maxmind.com
 
-   [6]Home | WanIP.info 2006-2020 (c) MD
+   [6]Home | WanIP.info 2006-2020 © MD
 
 References
 
