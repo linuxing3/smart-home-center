@@ -5,11 +5,11 @@
 
                              Your WanIP address is:
 
-   11905.5721.22456.223
+   71900.8727.32459.126
 
              Interesting info we could get from the WanIP address:
 
-   Host address: 11905.5721.22456.223 - 190-72-245-2.dyn.dsl.cantv.net
+   Host address: 71900.8727.32459.126 - 190-72-245-2.dyn.dsl.cantv.net
      Country:    [1]VE VE Venezuela
        ISP:      CANTV Servicios, Venezuela
 
@@ -40,4 +40,3 @@ References
    5. http://www.maxmind.com/
    6. WanIP.info - do you know your wan ip?
 	http://wanip.info/
-2020-03-18
